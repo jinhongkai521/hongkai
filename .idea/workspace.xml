@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="46dbe2ef-81e2-4c83-88b2-18a6eb39cfd5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/Buy.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Footer.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Header.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Modal.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Slip.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UpDate.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/strict.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/less/Strict.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/less/layout.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/less/theme.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/less/ui.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/less/var.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strict.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vue/Index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vue/Strict.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1x4U1853aUcwLxnZ43kTccotDEK" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.sandbox">
+    <configuration name="sandbox" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="sandbox" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="serve" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="serve" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.serve" />
+        <item itemvalue="npm.sandbox" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="46dbe2ef-81e2-4c83-88b2-18a6eb39cfd5" name="Default Changelist" comment="" />
+      <created>1629613635471</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1629613635471</updated>
+      <workItem from="1629613636545" duration="60638000" />
+      <workItem from="1629793559883" duration="16378000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="757" y="343" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1629627492577">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state x="757" y="343" key="#com.intellij.fileTypes.FileTypeChooser/0.-1055.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1629627492577" />
+    <state width="1659" height="298" key="GridCell.Tab.0.bottom" timestamp="1629795596385">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1659" height="298" key="GridCell.Tab.0.bottom/0.-1055.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1629795596385" />
+    <state width="1659" height="46" key="GridCell.Tab.0.bottom/0.25.1680.1025@0.25.1680.1025" timestamp="1629728287404" />
+    <state width="1659" height="298" key="GridCell.Tab.0.center" timestamp="1629795596384">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1659" height="298" key="GridCell.Tab.0.center/0.-1055.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1629795596384" />
+    <state width="1659" height="46" key="GridCell.Tab.0.center/0.25.1680.1025@0.25.1680.1025" timestamp="1629728287403" />
+    <state width="1659" height="298" key="GridCell.Tab.0.left" timestamp="1629795596384">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1659" height="298" key="GridCell.Tab.0.left/0.-1055.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1629795596384" />
+    <state width="1659" height="46" key="GridCell.Tab.0.left/0.25.1680.1025@0.25.1680.1025" timestamp="1629728287402" />
+    <state width="1659" height="298" key="GridCell.Tab.0.right" timestamp="1629795596385">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1659" height="298" key="GridCell.Tab.0.right/0.-1055.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1629795596385" />
+    <state width="1659" height="46" key="GridCell.Tab.0.right/0.25.1680.1025@0.25.1680.1025" timestamp="1629728287403" />
+    <state x="541" y="292" width="597" height="490" key="find.popup" timestamp="1629814699046">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state x="541" y="292" width="597" height="490" key="find.popup/0.25.1680.1025@0.25.1680.1025" timestamp="1629814699046" />
+  </component>
+</project>
